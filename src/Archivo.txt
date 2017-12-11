@@ -1,0 +1,10 @@
+cedula:1104603525, Pregunta: 33 / 46, Respuesta: 0, Respuesta correcta: 15,Puntuancion Total: 3
+cedula:1104603525, Pregunta: 13 + 26, Respuesta: 39, Respuesta correcta: 39,Puntuancion Total: 3
+cedula:1104603525, Pregunta: 26 - 6, Respuesta: 20, Respuesta correcta: 26,Puntuancion Total: 3
+cedula:1104603525, Pregunta: 36 / 28, Respuesta: 1, Respuesta correcta: 50,Puntuancion Total: 3
+cedula:1104603525, Pregunta: 15 - 7, Respuesta: 8, Respuesta correcta: 18,Puntuancion Total: 3
+cedula:1104603525, Pregunta: 27 + 45, Respuesta: 72, Respuesta correcta: 72,Puntuancion Total: 3
+cedula:1104603525, Pregunta: 44 + 8, Respuesta: 52, Respuesta correcta: 52,Puntuancion Total: 3
+cedula:1104603525, Pregunta: 9 - 11, Respuesta: -2, Respuesta correcta: 43,Puntuancion Total: 3
+cedula:1104603525, Pregunta: 18 / 13, Respuesta: 1, Respuesta correcta: 33,Puntuancion Total: 3
+cedula:1104603525, Pregunta: 33 - 15, Respuesta: 18, Respuesta correcta: 4,Puntuancion Total: 3
